@@ -7,7 +7,24 @@
 </ul>
 <hr />
 <h2>Proje Görüntüleri / Project Images</h2>
-! [Home Page] (https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/homepage.PNG)
-<p align="center">
-  <img width="250" height="250" src="[https://www.yazilimturkiye.com/wp-content/uploads/2021/06/yenilogo.jpg](https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/homepage.PNG)https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/homepage.PNG">
-</p>
+<ul>
+<li>Homepage:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/homepage.PNG">
+</p></li>
+  <li>Catalog:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/catalog.PNG">
+</p></li>
+  <li>About Us:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/aboutus.PNG">
+</p></li>
+  <li>Sing In:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/singin.PNG">
+</p></li>
+  <li>Sing Up:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/singup.PNG">
+</p></li>
+  <li>Dark Mode:<p align="center">
+  <img  src="https://github.com/CuneytCaglar/YourHeadphonesFinal/blob/main/YourHeadphonesFinal/src/project-images/darkmode.PNG">
+</p></li>
+</ul>
+
