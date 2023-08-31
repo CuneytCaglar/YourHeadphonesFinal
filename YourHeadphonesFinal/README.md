@@ -1,8 +1,14 @@
-# React + Vite
+<h1>Code16 Front End Bootcamp Final Project </h1>
+<hr />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kodluyoruz & Bursa Büyükşehir Belediyesi tarafından gerçekleştirilen Code16 Front End Bootcamp`inin bitirme projesi <br />
+olarak yaptığım 2 projeden biri olan "YourHeadphones" projesinin detayları: <br/>
 
-Currently, two official plugins are available:
+Projenin tasarımcısı / Project Designer: https://www.behance.net/evaraspoyasova1 <br />
+Proje Tasarım Bağlantısı / Project Design Link: https://www.behance.net/gallery/175761827/Design-project-with-Figma
+<hr />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Proje İçi Görüntüler / Project Images</h2> <br>
+
+
+
